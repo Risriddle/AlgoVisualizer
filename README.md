@@ -1,8 +1,54 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ALGORITHM VISUALIZER
 
-Currently, two official plugins are available:
+An interactive tool to visualize various sorting and graph algorithms and understand their working step-by-step. Built using React.js, this application provides an educational and fun way to learn algorithms. Also includes a Code Analyzer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Tech Stack
+
+**Frontend:**  React.js, CSS
+
+**Styling:** Custom CSS with animations
+
+**Deployment:** Vercel
+
+
+
+
+## Features
+
+- Visualizes popular sorting algorithms:
+- - Bubble Sort
+- - Merge Sort
+- - Quick Sort
+- - Selection Sort
+- - Insertion Sort
+- Adjustable array size and speed controls.
+- Visualizes Graph Algos
+- Comparison results for algorithm performance.
+- Interactive UI with a modern design.
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  git clone https://github.com/your-username/algorithm-visualizer.git
+  cd algorithm-visualizer
+```
+
+Install Dependencies
+```bash
+npm install
+```
+
+Run the project
+```bash
+npm run dev
+```
+## Live URL for site
+https://algo-visualizer-riddle.vercel.app/
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
