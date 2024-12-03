@@ -48,7 +48,7 @@ Run the project
 npm run dev
 ```
 ## Live URL for site
-https://algo-visualizer-riddle.vercel.app/
+https://algovisualizer-risriddle.vercel.app/
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
